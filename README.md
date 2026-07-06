@@ -17,7 +17,6 @@ The MPU6050 continuously measures acceleration on X, Y, Z axes. Total accelerati
 - Fall detection algorithm based on total acceleration thresholds
 
 ## Status
-In progress
 
 Implemented:
 - I2C peripheral initialization (register level, no HAL)
